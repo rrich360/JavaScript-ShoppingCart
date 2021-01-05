@@ -15,9 +15,11 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
  	Quantity
 •	Next, I use “cartRow.innerHTML” and set it to my “cartRowContents”. I use “.innerHTML” because the inside of the string is using html tags instead of just text. Then I need to add the class, “cartRow.classList.add(‘cart-row’)”, to my function to make sure the format is consistent, and an item can be added. 
 •	Finally, I inserted variables inside of the html string using the “${var}”. The dollar sign and the curly bracket allows any variable inside of it to evaluate. In this instance, each item with the following variables is being evaluated and put inside of the HTML page simultaneously :
+
  	${title}
  	${price}
  	${imgSrc}
+
 
 2[]()
 
