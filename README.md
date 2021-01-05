@@ -4,7 +4,7 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
 
 
 # DESIGN
-
+# Styling and creating function to add items to Shopping cart
 ![Design-addCartItems-demo](https://user-images.githubusercontent.com/20470279/103636311-ca314200-4f17-11eb-80cd-69fe9e1b7e60.gif)
 
 
@@ -39,7 +39,9 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
 
 •	If there is a duplicate, then I can use the alert function to notify the user that the item is already added to the cart.
 
-3[ ] ( )
+# Adding event listener for removing items in Shopping cart
+![Design-removeCartItems-demo](https://user-images.githubusercontent.com/20470279/103636471-05337580-4f18-11eb-8e45-ee943da5616e.gif)
+
 
 •	This is a gif demo of how to set up your document with an event listener that passes in “DOMContentLoaded” event and “ready ( )” function, which fires as soon as the page is done loading.
 
