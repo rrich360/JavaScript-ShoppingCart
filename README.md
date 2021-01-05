@@ -26,7 +26,9 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
  	${imgSrc}
 
 
-2[]()
+# Checking for duplicate items in Shopping cart
+![Design-checkDuplicateItems-demo](https://user-images.githubusercontent.com/20470279/103630382-90f4d400-4f0f-11eb-817f-7ff207ed76b4.gif)
+
 
 •	The gif above demonstrates how to make a check to verify if an item has been added to the cart already. To check for this, I created a variable called, “cartItemNames”, to get all the names of the cart item in the cart. 
 
