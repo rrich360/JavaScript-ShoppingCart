@@ -5,7 +5,8 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
 
 # DESIGN
 
-1[]()
+![Design-addCartItems-demo](https://user-images.githubusercontent.com/20470279/103636311-ca314200-4f17-11eb-80cd-69fe9e1b7e60.gif)
+
 
 •	In the gif above, it demonstrates how the styling for each item is created, such that there is consistency in how the item appears in the cart when it is added. 
 
