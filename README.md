@@ -57,8 +57,9 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
 
 
 # FUNCTIONALITY
+# Overall functionality of the web store
+![Functionality-demo](https://user-images.githubusercontent.com/20470279/103637866-1c736280-4f1a-11eb-8266-8d81c3849d37.gif)
 
-4[ ]( )
 
 •	This gif demonstrates the basic functionalities of this web app. It simulates a web store that a user can access to buy tickets, merchandise, and/or music from their favorite artist. In this example, the theme of this webstore is inspired by The Wu-Tang Clan, one of my favorite music groups. 
 
