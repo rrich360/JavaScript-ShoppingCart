@@ -43,13 +43,13 @@ This project consist of HTML, CSS, and JavaScript. It is a simulation of online 
 ![Design-removeCartItems-demo](https://user-images.githubusercontent.com/20470279/103636471-05337580-4f18-11eb-8e45-ee943da5616e.gif)
 
 
-•	This is a gif demo of how to set up your document with an event listener that passes in “DOMContentLoaded” event and “ready ( )” function, which fires as soon as the page is done loading.
+•	This is a gif demo of how to set up your document with an event listener that passes in “DOMContentLoaded” event and “ready( )function", which fires as soon as the page is done loading.
 
 •	The ready function allows my code for hooking up all the buttons to automatically work even if the page is not already loaded. 
 
-•	I cleaned up the code a little bit by creating a ‘removeCartItem’ function separate from the ready function.  
+•	I cleaned up the code a little bit by creating a ‘removeCartItem()function' separate from the ready function.  
 
-•	I separated the code from the event listener inside of the ready function and put it inside the “ function removeCartItem ( )”, which passes in the event from the ready function. 
+•	I separated the code from the event listener inside of the ready()function and put it inside the “ function removeCartItem ( )”, which passes in the 'event' from the ready()function. 
 
 •	This makes it easier to see what is happening in the code and easier to read.  
 
